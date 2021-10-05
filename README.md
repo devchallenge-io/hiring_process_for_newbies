@@ -30,7 +30,9 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 É importante lembrar que dependendo do seu objetivo e contexto, essas dicas podem ser válidas ou não. Então leia com atenção e tire proveito de acordo com o que se aplica melhor à sua realidade.
 
 ## Portfólio
--
+- Tenha projetos completos e bem documentados no seu github. 
+- Crie um belo readme para todos os projetos explicando o problema que ele resolve, tecnologias usadas.
+- Crie diagramas para explicar o fluxo da aplicação. Sites que diagramas gratuitos: [Excalidraw](https://excalidraw.com/)
 
 ## Currículo
 -
