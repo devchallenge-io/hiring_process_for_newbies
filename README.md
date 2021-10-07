@@ -42,7 +42,9 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Tente ter ao menos 3 CRUDS e/ou 2 aplicação front-end no seu portfólio.
 
 ## Currículo
--
+- Priorize suas atividades as técnologias você deve citar as técnologias mas conta muito mais você detalhar e explicar as atividades feitas.
+- Coloque as experiências que não são da área de T.I. e fizerem sentido. Pois mostra que você está habituado ao dia a dia de uma empresa.
+- Sempre mantenha o seu cúrriculo atualizado.
 
 ## Aplicando para vagas
   ### O que buscar
@@ -55,6 +57,8 @@ Uma forma de escolher a tecnologia é saber em qual empresa você gostaria de tr
   - GeekHunter
   - Programathor
   - Grupos no Telegram onde você tem contato com muitos tech recruiter também costumam ser uma boa opção, até pela oportunidade de se aproximar dos recrutadores.
+  - Glassdoor (Você pode avaliar empresas e ver avaliações, salários etc de outras empresas).
+  
 
 ## Desafios
  ### O que estudar
