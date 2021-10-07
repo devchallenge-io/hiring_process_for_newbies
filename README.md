@@ -46,6 +46,9 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Tente ter ao menos 3 CRUDS e/ou 2 aplicação front-end no seu portfólio.
 
 ## Currículo
+- Priorize suas atividades. Você deve citar as técnologias utilizadas, mas é importante detalhar e explicar as atividades feitas.
+- Coloque as experiências que não são da área de T.I. e fizerem sentido, pois mostra que você está habituado ao dia a dia de uma empresa.
+- Sempre mantenha o seu cúrriculo atualizado.
 
 - Um exemplo de curriculum:
 <img src="/assets/img/modelo-curriculo.jpg">
@@ -53,8 +56,8 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 [Baixe o exemplo](./assets/docs/84-modelo-curriculo-pronto-word.docx)
 
 - Adicione elementos que sejam simples e intuitivos, normalmente pessoas não desenvolvedoras leem currículos. Seja o mais conciso possível adicione seus cursos, experiências, projetos OpenSource e afins.
-- Não adicione NADA que você não saiba fazer, alguns processos seletivos fazem perguntas sobre o conteúdo que você diz que tem domino! Se você não sabe utilizar uma tecnologia não adicione ela em suas habilidades.
-- Busque recomendações para seu curriculum isso agrega bastante ao seu perfil.
+- Não adicione NADA que você não saiba fazer, alguns processos seletivos fazem perguntas sobre o conteúdo que você diz que tem domínio! Se você não sabe utilizar uma tecnologia não adicione ela em suas habilidades.
+- Busque recomendações para seu curriculum, isso agrega bastante ao seu perfil.
 
 ## Aplicando para vagas
 
@@ -64,12 +67,12 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 Uma forma de escolher a tecnologia é saber em qual empresa você gostaria de trabalhar, veja quais tecnologias ela usa e passe a estudá-las. Se a empresa tiver iniciativas como bootcamp para contratação como a [Zup Innovation](https://www.zup.com.br/nossos-programas), Banco Pan, LuizaLabs, IBM, entre outras, já é uma forma de se ficar de olho na oportunidade e como direcionar seus estudos e se preparar para o processo seletivo.
 - Outra forma bem interessante é ficar de olho em algumas edtechs como a [Campus Code](https://www.campuscode.com.br/) e a [Gama Academy](https://www.gama.academy/), eles fecham muitas parcerias com empresas como a Locaweb, Iugu, M4U, entre outras exatamente para contratar devs.
   
-### Buscando vagas
-
-- Linkedin
-- GeekHunter
-- Programathor
-- Grupos no Telegram onde você tem contato com muitos tech recruiter também costumam ser uma boa opção, até pela oportunidade de se aproximar dos recrutadores.
+  ### Buscando vagas
+  - Linkedin
+  - GeekHunter
+  - Programathor
+  - Grupos no Telegram onde você tem contato com muitos tech recruiter também costumam ser uma boa opção, até pela oportunidade de se aproximar dos recrutadores.
+  - Glassdoor (Você pode avaliar empresas e ver avaliações, salários etc de outras empresas).
 
 ## Desafios
 
