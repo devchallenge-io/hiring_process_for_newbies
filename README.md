@@ -64,15 +64,19 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 ### O que buscar
 
 - É importante você ter um foco inicial. O mundo da programação é imenso e por, por muitas vezes, ser confuso de início, porém se você focar em uma tecnologia inicial isso vai te ajudar a ter um norte.
-Uma forma de escolher a tecnologia é saber em qual empresa você gostaria de trabalhar, veja quais tecnologias ela usa e passe a estudá-las. Se a empresa tiver iniciativas como bootcamp para contratação como a [Zup Innovation](https://www.zup.com.br/nossos-programas), Banco Pan, LuizaLabs, IBM, entre outras, já é uma forma de se ficar de olho na oportunidade e como direcionar seus estudos e se preparar para o processo seletivo.
+  Uma forma de escolher a tecnologia é saber em qual empresa você gostaria de trabalhar, veja quais tecnologias ela usa e passe a estudá-las. Se a empresa tiver iniciativas como bootcamp para contratação como a [Zup Innovation](https://www.zup.com.br/nossos-programas), Banco Pan, LuizaLabs, IBM, entre outras, já é uma forma de se ficar de olho na oportunidade e como direcionar seus estudos e se preparar para o processo seletivo.
 - Outra forma bem interessante é ficar de olho em algumas edtechs como a [Campus Code](https://www.campuscode.com.br/) e a [Gama Academy](https://www.gama.academy/), eles fecham muitas parcerias com empresas como a Locaweb, Iugu, M4U, entre outras exatamente para contratar devs.
-  
-  ### Buscando vagas
-  - Linkedin
-  - GeekHunter
-  - Programathor
-  - Grupos no Telegram onde você tem contato com muitos tech recruiter também costumam ser uma boa opção, até pela oportunidade de se aproximar dos recrutadores.
-  - Glassdoor (Você pode avaliar empresas e ver avaliações, salários etc de outras empresas).
+
+### Buscando vagas
+
+- Linkedin
+- GeekHunter
+- Programathor
+- Gupy
+- Kenoby
+- Grupos no Telegram onde você tem contato com muitos tech recruiter também costumam ser uma boa opção, até pela oportunidade de se aproximar dos recrutadores.
+- Glassdoor (Você pode avaliar empresas e ver avaliações, salários etc de outras empresas).
+
 
 ## Desafios
 
@@ -99,7 +103,7 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 ## Comunidade
 
-Nosso objetivo é ajudar cada vez mais na evolução de desenvolvedores! Por isso, temos uma comunidade exclusiva do DevChallenge no Discord. Bora? <https://discord.gg/yvYXhGj> <br>
+Nosso objetivo é ajudar cada vez mais na evolução de desenvolvedores! Por isso, temos uma comunidade exclusiva do DevChallenge no Discord. Bora? https://discord.gg/yvYXhGj <br>
 <br>
 Site: <https://www.devchallenge.com.br/> <br>
 
