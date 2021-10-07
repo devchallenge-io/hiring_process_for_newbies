@@ -10,7 +10,7 @@
     Dicas de processo seletivo para desenvolvedores
        <br />
     <br />
-     <a href="https://www.devchallenge.com.br/">DevChallenge</a>    
+     <a href="https://www.devchallenge.com.br/">DevChallenge</a>
   </p>
 
 ## Índice
@@ -21,7 +21,9 @@
 - [Currículo](#currículo)
 - [Aplicando para vagas](#aplicando-para-vagas)
   - [O que buscar](#o-que-buscar)
-  - [Sites para buscar vagas](#sites-para-buscar-vagas)
+  - [Buscando vagas](#buscando-vagas)
+- [Desafios](#desafios)
+  - [O que estudar](#o-que-estudar)
 - [Entrevista](#entrevista)
 - [Dinâmicas](#dinâmicas)
 - [Como contribuir](#como-contribuir)
@@ -44,8 +46,18 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Tente ter ao menos 3 CRUDS e/ou 2 aplicação front-end no seu portfólio.
 
 ## Currículo
+- Priorize suas atividades. Você deve citar as técnologias utilizadas, mas é importante detalhar e explicar as atividades feitas.
+- Coloque as experiências que não são da área de T.I. e fizerem sentido, pois mostra que você está habituado ao dia a dia de uma empresa.
+- Sempre mantenha o seu cúrriculo atualizado.
 
--
+- Um exemplo de curriculum:
+<img src="/assets/img/modelo-curriculo.jpg">
+
+[Baixe o exemplo](./assets/docs/84-modelo-curriculo-pronto-word.docx)
+
+- Adicione elementos que sejam simples e intuitivos, normalmente pessoas não desenvolvedoras leem currículos. Seja o mais conciso possível adicione seus cursos, experiências, projetos OpenSource e afins.
+- Não adicione NADA que você não saiba fazer, alguns processos seletivos fazem perguntas sobre o conteúdo que você diz que tem domínio! Se você não sabe utilizar uma tecnologia não adicione ela em suas habilidades.
+- Busque recomendações para seu curriculum, isso agrega bastante ao seu perfil.
 
 ## Aplicando para vagas
 
@@ -60,10 +72,11 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Linkedin
 - GeekHunter
 - Programathor
-- Grupos no Telegram onde você tem contato com muitos tech recruiter também costumam ser uma boa opção, até pela oportunidade de se aproximar dos recrutadores.
 - Gupy
 - Kenoby
-- Glassdoor
+- Grupos no Telegram onde você tem contato com muitos tech recruiter também costumam ser uma boa opção, até pela oportunidade de se aproximar dos recrutadores.
+- Glassdoor (Você pode avaliar empresas e ver avaliações, salários etc de outras empresas).
+
 
 ## Desafios
 
@@ -92,7 +105,7 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 Nosso objetivo é ajudar cada vez mais na evolução de desenvolvedores! Por isso, temos uma comunidade exclusiva do DevChallenge no Discord. Bora? https://discord.gg/yvYXhGj <br>
 <br>
-Site: https://www.devchallenge.com.br/ <br>
+Site: <https://www.devchallenge.com.br/> <br>
 
 <table style="border-color:transparent">
     <th>
