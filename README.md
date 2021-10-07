@@ -15,10 +15,13 @@
 
 ## Índice
 
+- [Índice](#índice)
 - [Sobre](#sobre)
 - [Portfólio](#portfólio)
 - [Currículo](#currículo)
 - [Aplicando para vagas](#aplicando-para-vagas)
+  - [O que buscar](#o-que-buscar)
+  - [Sites para buscar vagas](#sites-para-buscar-vagas)
 - [Entrevista](#entrevista)
 - [Dinâmicas](#dinâmicas)
 - [Como contribuir](#como-contribuir)
@@ -33,6 +36,9 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Tenha projetos completos e bem documentados no seu github. 
 - Crie um belo readme para todos os projetos explicando o problema que ele resolve, tecnologias usadas.
 - Crie diagramas para explicar o fluxo da aplicação. Sites que diagramas gratuitos: [Excalidraw](https://excalidraw.com/)
+- Crie um site portfolio que possa armazenar seus projetos, layouts e etc. 
+- Layout base de site portfolio que fiz para a comunidade: [Clique aqui](https://www.figma.com/file/H1AlXQapovT5SwpLWjM0RL/meuSitePortifolio-UI%2FUX?node-id=0%3A1)
+- Tente ter ao menos 3 CRUDS e/ou 2 aplicação front-end no seu portfólio.
 
 ## Currículo
 -
