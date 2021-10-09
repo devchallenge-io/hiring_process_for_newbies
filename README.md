@@ -89,7 +89,9 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 ## Entrevista
 
--
+- Estude a empresa, quais são os seus produtos o que eles fazem e não fazem. Também é válido olhar o site [Glassdoor](glassdoor.com.br) onde os ex e atuais funcionários fazem avalições e dão feedbacks a empresas.
+
+- Não fique nervoso é apenas um conversa. Eu sei que essa é obvia e até mesmo chata, mas realmente faz muita diferença, não pense que só você precisa da empresa, pois ela também precisa de alguém como você lá, por isso a entrevista esse pensamento particularmente ajuda a me manter calmo e a criar uma certa confiança para a entrevista.
 
 ## Dinâmicas
 
