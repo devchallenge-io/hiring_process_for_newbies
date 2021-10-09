@@ -76,6 +76,8 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Kenoby
 - Grupos no Telegram onde você tem contato com muitos tech recruiter também costumam ser uma boa opção, até pela oportunidade de se aproximar dos recrutadores.
 - Glassdoor (Você pode avaliar empresas e ver avaliações, salários etc de outras empresas).
+- Indeed
+- Comunidades da linguagem onde você busca uma vaca, é muito comum que todas elas tenham um canal de vaga, sempre é válido dar uma pesquisada.
 
 
 ## Desafios
