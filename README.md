@@ -58,6 +58,7 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Adicione elementos que sejam simples e intuitivos, normalmente pessoas não desenvolvedoras leem currículos. Seja o mais conciso possível adicione seus cursos, experiências, projetos OpenSource e afins.
 - Não adicione NADA que você não saiba fazer, alguns processos seletivos fazem perguntas sobre o conteúdo que você diz que tem domínio! Se você não sabe utilizar uma tecnologia não adicione ela em suas habilidades.
 - Busque recomendações para seu curriculum, isso agrega bastante ao seu perfil.
+- Coloque as experiências mais recentes antes. Isto é, organize as suas experiências em ordem cronológica inversa.
 
 ## Aplicando para vagas
 
