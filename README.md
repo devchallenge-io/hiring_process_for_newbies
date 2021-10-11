@@ -90,7 +90,10 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 ## Entrevista
 
--
+- Seja honesto. Não adianta mentir ou inventar histórias. A seleção é feita baseada no que você vai precisar desempenhar no dia-a-dia.
+- Fique tranquilo(a). Os entrevistadores são apenas outras pessoas como você que só estão fazendo o trabalho deles.
+- Dificilmente uma entrevista de alguns minutos conseguirá medir as pessoas de uma maneira profunda. Por isso, não dê nenhum motivo negativo para si próprio: Arrume-se, não fale palavras de baixo calão (palavrões).
+- Pratique. Com prática você irá perceber que as entrevistas são apenas conversas. Se você não for bem nas primeiras, não se desanime.
 
 ## Dinâmicas
 
