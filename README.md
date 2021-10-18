@@ -90,12 +90,10 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 ## Entrevista
 
 ### Como se preparar
-
-- Estude sobre a empresa, quais os seus valores, missão e propósito.
+- Estude a empresa: quais os seus valores, missão, propósito, quais são os seus produtos o que eles fazem e não fazem. Também é válido olhar o site [Glassdoor](glassdoor.com.br) onde os ex e atuais funcionários fazem avalições e dão feedbacks das empresas.
 - No dia da entrevista, tente reservar alguns minutos antes para testar seus equipamentos, principalmente câmera e áudio. Se for possível, tente fazer uma chamada de teste com um amigo ou familiar para garantir que está tudo certo.
 - Escolha um local iluminado e silencioso. Se você mora com mais pessoas, tente explicar sobre a importância dessa seleção, pedindo o máximo de silêncio enquanto estiver sendo entrevistado.
-
--
+- Mantenha a calma, é apenas um conversa. Eu sei que essa é obvia e até mesmo chata, mas realmente faz muita diferença, não pense que só você precisa da empresa, pois ela também precisa de alguém como você lá.
 
 ## Dinâmicas
 
