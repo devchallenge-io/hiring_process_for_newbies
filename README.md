@@ -89,6 +89,12 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 ## Entrevista
 
+### Como se preparar
+
+- Estude sobre a empresa, quais os seus valores, missão e propósito.
+- No dia da entrevista, tente reservar alguns minutos antes para testar seus equipamentos, principalmente câmera e áudio. Se for possível, tente fazer uma chamada de teste com um amigo ou familiar para garantir que está tudo certo.
+- Escolha um local iluminado e silencioso. Se você mora com mais pessoas, tente explicar sobre a importância dessa seleção, pedindo o máximo de silêncio enquanto estiver sendo entrevistado.
+
 -
 
 ## Dinâmicas
