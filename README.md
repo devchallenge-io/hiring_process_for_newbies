@@ -58,6 +58,7 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Adicione elementos que sejam simples e intuitivos, normalmente pessoas não desenvolvedoras leem currículos. Seja o mais conciso possível adicione seus cursos, experiências, projetos OpenSource e afins.
 - Não adicione NADA que você não saiba fazer, alguns processos seletivos fazem perguntas sobre o conteúdo que você diz que tem domínio! Se você não sabe utilizar uma tecnologia não adicione ela em suas habilidades.
 - Busque recomendações para seu curriculum, isso agrega bastante ao seu perfil.
+- Coloque as experiências mais recentes antes. Isto é, organize as suas experiências em ordem cronológica inversa.
 
 ## Aplicando para vagas
 
@@ -93,7 +94,12 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 - Estude a empresa: quais os seus valores, missão, propósito, quais são os seus produtos o que eles fazem e não fazem. Também é válido olhar o site [Glassdoor](glassdoor.com.br) onde os ex e atuais funcionários fazem avalições e dão feedbacks das empresas.
 - No dia da entrevista, tente reservar alguns minutos antes para testar seus equipamentos, principalmente câmera e áudio. Se for possível, tente fazer uma chamada de teste com um amigo ou familiar para garantir que está tudo certo.
 - Escolha um local iluminado e silencioso. Se você mora com mais pessoas, tente explicar sobre a importância dessa seleção, pedindo o máximo de silêncio enquanto estiver sendo entrevistado.
-- Mantenha a calma, é apenas um conversa. Eu sei que essa é obvia e até mesmo chata, mas realmente faz muita diferença, não pense que só você precisa da empresa, pois ela também precisa de alguém como você lá.
+- Pratique. Com prática você irá perceber que as entrevistas são apenas conversas. Se você não for bem nas primeiras, não se desanime.
+
+### Durante a entrevista
+- Seja honesto. Não adianta mentir ou inventar histórias. A seleção é feita baseada no que você vai precisar desempenhar no dia-a-dia.
+- Fique tranquilo(a). Os entrevistadores são apenas outras pessoas como você que só estão fazendo o trabalho deles. Além disso, não é só você precisa da empresa, pois ela também precisa de alguém como você lá.
+- Dificilmente uma entrevista de alguns minutos conseguirá medir as pessoas de uma maneira profunda. Por isso, não dê nenhum motivo negativo para si próprio: Arrume-se, não fale palavras de baixo calão (palavrões).
 
 ## Dinâmicas
 
