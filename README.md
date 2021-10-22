@@ -1,21 +1,20 @@
-<br />
 <p align="center">
     <a href="https://devchallenge.com.br/">
     <img src="https://trello-attachments.s3.amazonaws.com/590fa896d2d25e50583de620/500x500/0bdcc819ea145cb0167619c6d00f2174/D.png" alt="Logo" width="100" height="100">
-  </a>
+    </a>
   
   <h3 align="center">Hiring Process for Newbies</h3>
 
   <p align="center">
     Dicas de processo seletivo para desenvolvedores
-       <br />
+    <br />
     <br />
      <a href="https://www.devchallenge.com.br/">DevChallenge</a>
   </p>
+</p>
 
-## Índice
+<h2>Índice</h2>
 
-- [Índice](#índice)
 - [Sobre](#sobre)
 - [Portfólio](#portfólio)
 - [Currículo](#currículo)
@@ -52,12 +51,13 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 
 - Priorize suas atividades. Você deve citar as tecnologias utilizadas, mas é importante detalhar e explicar as atividades feitas.
 - Coloque as experiências que não são da área de T.I. e fizerem sentido, pois mostra que você está habituado ao dia a dia de uma empresa.
-- Sempre mantenha o seu cúrriculo atualizado.
+- Sempre mantenha o seu currículo atualizado.
 
-- Um exemplo de curriculum:
-<img src="/assets/img/modelo-curriculo.jpg">
+- Um exemplo de currículo:
 
-[Baixe o exemplo](./assets/docs/84-modelo-curriculo-pronto-word.docx)
+![Exemplo de currículo](/assets/img/modelo-curriculo.jpg)
+
+> Clique [aqui](./assets/docs/84-modelo-curriculo-pronto-word.docx) para baixar o exemplo.
 
 - Adicione elementos que sejam simples e intuitivos, normalmente pessoas não desenvolvedoras leem currículos. Seja o mais conciso possível adicione seus cursos, experiências, projetos OpenSource e afins.
 - Não adicione NADA que você não saiba fazer, alguns processos seletivos fazem perguntas sobre o conteúdo que você diz que tem domínio! Se você não sabe utilizar uma tecnologia não adicione ela em suas habilidades.
@@ -109,7 +109,7 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 ### Como se preparar
 
-- Estude a empresa: quais os seus valores, missão, propósito, quais são os seus produtos o que eles fazem e não fazem. Também é válido olhar o site [Glassdoor](glassdoor.com.br) onde os ex e atuais funcionários fazem avalições e dão feedbacks das empresas.
+- Estude a empresa: quais os seus valores, missão, propósito, quais são os seus produtos o que eles fazem e não fazem. Também é válido olhar o site [Glassdoor](glassdoor.com.br) onde os ex e atuais funcionários fazem avaliações e dão feedbacks das empresas.
 - No dia da entrevista, tente reservar alguns minutos antes para testar seus equipamentos, principalmente câmera e áudio. Se for possível, tente fazer uma chamada de teste com um amigo ou familiar para garantir que está tudo certo.
 - Escolha um local iluminado e silencioso. Se você mora com mais pessoas, tente explicar sobre a importância dessa seleção, pedindo o máximo de silêncio enquanto estiver sendo entrevistado.
 - Pratique. Com prática você irá perceber que as entrevistas são apenas conversas. Se você não for bem nas primeiras, não se desanime.
@@ -132,9 +132,15 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 ## Comunidade
 
-Nosso objetivo é ajudar cada vez mais na evolução de desenvolvedores! Por isso, temos uma comunidade exclusiva do DevChallenge no Discord. Bora? <https://discord.gg/yvYXhGj> <br>
+Nosso objetivo é ajudar cada vez mais na evolução de desenvolvedores! Por isso, possuímos uma comunidade exclusiva da DevChallenge no [Discord](https://discord.gg/yvYXhGj) vem participar com a gente!
+
 <br>
-Site: <https://www.devchallenge.com.br/> <br>
+
+<br>
+
+Site: Clique [aqui](https://www.devchallenge.com.br) e acesse o site da Devchallenge.
+
+<br>
 
 <table style="border-color:transparent">
     <th>
@@ -144,3 +150,9 @@ Site: <https://www.devchallenge.com.br/> <br>
     <td><a href="https://www.instagram.com/devchallenge/"><img src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-3-512.png" width="30px"            height="30px" alt="Instagram"></a></td>
     </th>
 </table>
+
+---
+
+<p align="center">
+Made with 💘 by <strong>Devchallenge</strong> for <strong>community</strong>
+</p>
