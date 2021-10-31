@@ -20,11 +20,14 @@
 - [Portfólio](#portfólio)
 - [Currículo](#currículo)
 - [Aplicando para vagas](#aplicando-para-vagas)
+  - [Quando Aplicar ?](#quando-aplicar-)
   - [O que buscar](#o-que-buscar)
   - [Buscando vagas](#buscando-vagas)
 - [Desafios](#desafios)
   - [O que estudar](#o-que-estudar)
 - [Entrevista](#entrevista)
+  - [Como se preparar](#como-se-preparar)
+  - [Durante a entrevista](#durante-a-entrevista)
 - [Dinâmicas](#dinâmicas)
 - [Como contribuir](#como-contribuir)
 - [Comunidade](#comunidade)
@@ -46,7 +49,8 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Tente ter ao menos 3 CRUDS e/ou 2 aplicação front-end no seu portfólio.
 
 ## Currículo
-- Priorize suas atividades. Você deve citar as técnologias utilizadas, mas é importante detalhar e explicar as atividades feitas.
+
+- Priorize suas atividades. Você deve citar as tecnologias utilizadas, mas é importante detalhar e explicar as atividades feitas.
 - Coloque as experiências que não são da área de T.I. e fizerem sentido, pois mostra que você está habituado ao dia a dia de uma empresa.
 - Sempre mantenha o seu cúrriculo atualizado.
 
@@ -61,6 +65,18 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Coloque as experiências mais recentes antes. Isto é, organize as suas experiências em ordem cronológica inversa.
 
 ## Aplicando para vagas
+
+### Quando Aplicar ?
+
+Essa é um pergunta que todos nós fazemos e a resposta vai variar de pessoa para pessoa, mas quando devemos aplicar-se para vagas ?
+Quando seu conhecimento com determinadas tecnologias te coloque em uma zona de conforto para assumir a vaga que almeja, por exemplo se
+você tem conhecimento de HTML, CSS e JavaScript consegue fazer páginas simples sabe o que é uma const, consegue criar classes, funções e afins do 0
+esse seria um momento interessante para ir a procura de um emprego.
+
+Mas como saberei que estou pronto para isso ?
+Prática. A prática te leva a confiança no código que escreve e também costume ou melhor, rotina no desenvolvimento de uma aplicação.
+Desenvolver sites, app's ou afins será diferente de produzir algum projeto pessoal já que a vivencia de uma empresa é totalmente diferente
+para te ajudar com esse ecossistema corporativo participar de projetos openSource e comunidades te ajudará.
 
 ### O que buscar
 
@@ -80,7 +96,6 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Indeed
 - Comunidades da linguagem onde você busca uma vaga, é muito comum que todas elas tenham um canal de vaga, sempre é válido dar uma pesquisada.
 
-
 ## Desafios
 
 ### O que estudar
@@ -93,12 +108,14 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 ## Entrevista
 
 ### Como se preparar
+
 - Estude a empresa: quais os seus valores, missão, propósito, quais são os seus produtos o que eles fazem e não fazem. Também é válido olhar o site [Glassdoor](glassdoor.com.br) onde os ex e atuais funcionários fazem avalições e dão feedbacks das empresas.
 - No dia da entrevista, tente reservar alguns minutos antes para testar seus equipamentos, principalmente câmera e áudio. Se for possível, tente fazer uma chamada de teste com um amigo ou familiar para garantir que está tudo certo.
 - Escolha um local iluminado e silencioso. Se você mora com mais pessoas, tente explicar sobre a importância dessa seleção, pedindo o máximo de silêncio enquanto estiver sendo entrevistado.
 - Pratique. Com prática você irá perceber que as entrevistas são apenas conversas. Se você não for bem nas primeiras, não se desanime.
 
 ### Durante a entrevista
+
 - Seja honesto. Não adianta mentir ou inventar histórias. A seleção é feita baseada no que você vai precisar desempenhar no dia-a-dia.
 - Fique tranquilo(a). Os entrevistadores são apenas outras pessoas como você que só estão fazendo o trabalho deles. Além disso, não é só você precisa da empresa, pois ela também precisa de alguém como você lá.
 - Dificilmente uma entrevista de alguns minutos conseguirá medir as pessoas de uma maneira profunda. Por isso, não dê nenhum motivo negativo para si próprio: Arrume-se, não fale palavras de baixo calão (palavrões).
@@ -115,7 +132,7 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 ## Comunidade
 
-Nosso objetivo é ajudar cada vez mais na evolução de desenvolvedores! Por isso, temos uma comunidade exclusiva do DevChallenge no Discord. Bora? https://discord.gg/yvYXhGj <br>
+Nosso objetivo é ajudar cada vez mais na evolução de desenvolvedores! Por isso, temos uma comunidade exclusiva do DevChallenge no Discord. Bora? <https://discord.gg/yvYXhGj> <br>
 <br>
 Site: <https://www.devchallenge.com.br/> <br>
 
