@@ -19,7 +19,7 @@
 - [Portfólio](#portfólio)
 - [Currículo](#currículo)
 - [Aplicando para vagas](#aplicando-para-vagas)
-  - [Quando Aplicar ?](#quando-aplicar-)
+  - [Quando Aplicar](#quando-aplicar)
   - [O que buscar](#o-que-buscar)
   - [Buscando vagas](#buscando-vagas)
 - [Desafios](#desafios)
@@ -66,8 +66,7 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 
 ## Aplicando para vagas
 
-### Quando Aplicar?
-
+### Quando Aplicar
 Essa é um pergunta que todos nós fazemos e a resposta vai variar de pessoa para pessoa, mas quando devemos aplicar-se para vagas?
 Quando seu conhecimento com determinadas tecnologias te coloque em uma zona de conforto para assumir a vaga que almeja. Por exemplo, se você tem conhecimento básicos de HTML, CSS e JavaScript, consegue fazer páginas simples, criar classes, funções, esse seria um momento interessante para ir a procura de um emprego.
 
