@@ -66,17 +66,15 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 
 ## Aplicando para vagas
 
-### Quando Aplicar ?
+### Quando Aplicar?
 
-Essa é um pergunta que todos nós fazemos e a resposta vai variar de pessoa para pessoa, mas quando devemos aplicar-se para vagas ?
-Quando seu conhecimento com determinadas tecnologias te coloque em uma zona de conforto para assumir a vaga que almeja, por exemplo se
-você tem conhecimento de HTML, CSS e JavaScript consegue fazer páginas simples sabe o que é uma const, consegue criar classes, funções e afins do 0
-esse seria um momento interessante para ir a procura de um emprego.
+Essa é um pergunta que todos nós fazemos e a resposta vai variar de pessoa para pessoa, mas quando devemos aplicar-se para vagas?
+Quando seu conhecimento com determinadas tecnologias te coloque em uma zona de conforto para assumir a vaga que almeja. Por exemplo, se você tem conhecimento básicos de HTML, CSS e JavaScript, consegue fazer páginas simples, criar classes, funções, esse seria um momento interessante para ir a procura de um emprego.
 
-Mas como saberei que estou pronto para isso ?
-Prática. A prática te leva a confiança no código que escreve e também costume ou melhor, rotina no desenvolvimento de uma aplicação.
-Desenvolver sites, app's ou afins será diferente de produzir algum projeto pessoal já que a vivencia de uma empresa é totalmente diferente
-para te ajudar com esse ecossistema corporativo participar de projetos openSource e comunidades te ajudará.
+Mas como saberei que estou pronto para isso?
+Prática. A prática te leva a confiança no código que escreve e também ter uma rotina no desenvolvimento de uma aplicação. 
+
+Além disso, sabemos que vivência de uma empresa é totalmente diferente de produzir somente projetos pessoais. Então para te ajudar com esse ecossistema corporativo, participar de projetos open source e comunidades de tecnologia te ajudará.
 
 ### O que buscar
 
@@ -104,6 +102,13 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 - Aqui no [DevChallenge](https://www.devchallenge.com.br/challenges) você encontra alguns desafios bem comuns de serem solicitados (tanto para o back-end como para o front-end e para mobile).
 - Para treinar lógica e algoritmo, muitas empresas se baseiam no [HackerRank](https://hackerrank.com/), [CodeWars](https://www.codewars.com/) e sites semelhantes, mas caso você não se sinta a vontade de treinar lógica e algoritmo em inglês, temos site o brasileiro [URI](https://www.urionlinejudge.com.br/judge/pt/login)
+
+### Na prática
+Ao receber um desafio, leia com atenção as instruções dadas. Tire as possíveis dúvidas que tiver com o solicitante do desafio e mãos à obra! Pontos importantes:
+- Nem sempre sabemos tudo que está nas instruções, então use o tempo dado para aprender alguma ferramenta ou termo que tenham solicitado e você não conheça
+- Faça todos os requisitos obrigatórios e se possível, os itens extras também!
+- Capriche na documentação! Detalhe sobre o que é o projeto, como utilizar, quais as tecnologias utilizadas, imagens dele funcionando
+- Faça o deploy da sua aplicação. Você pode utilizar ferramentas como o heroku, vercel e netlify para isso
 
 ## Entrevista
 
