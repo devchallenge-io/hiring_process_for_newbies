@@ -19,7 +19,7 @@
 - [Portfólio](#portfólio)
 - [Currículo](#currículo)
 - [Aplicando para vagas](#aplicando-para-vagas)
-  - [Quando Aplicar ?](#quando-aplicar-)
+  - [Quando Aplicar](#quando-aplicar)
   - [O que buscar](#o-que-buscar)
   - [Buscando vagas](#buscando-vagas)
 - [Desafios](#desafios)
@@ -39,11 +39,11 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 
 ## Portfólio
 
-- Tenha projetos completos e bem documentados no seu github.
-- Crie um belo readme para todos os projetos explicando o problema que ele resolve, tecnologias usadas.
+- Tenha seus projetos registrados no seu github.
+- Crie um belo readme para cada projeto, explicando o problema que ele resolve, tecnologias usadas, print ou link de demonstração e como utilizar
 - Crie diagramas para explicar o fluxo da aplicação. Sites que diagramas gratuitos: [Excalidraw](https://excalidraw.com/)
-- Se for de front, uma boa ideia é deixar sua aplicação no [Vercel](https://vercel.com/), pois se torna uma forma de exposição mais eficiente, principalmente, para quem não é técnico. Já para quem é de back, subir algumas api's em locais como o [Heroku](https://www.heroku.com/) também tem a mesma ideia de exposição da sua aplicação.
-- Crie um site portfolio que possa armazenar seus projetos, layouts e etc.
+- Fazer o deploy da aplicação é sempre legal! Se for de front, uma boa ideia é deixar sua aplicação no [Vercel](https://vercel.com/), pois se torna uma forma de exposição mais eficiente, principalmente, para quem não é técnico. Já para quem é de back, subir algumas api's em locais como o [Heroku](https://www.heroku.com/) também tem a mesma ideia de exposição da sua aplicação.
+- Crie um site portfolio que possa armazenar seus projetos, layouts, links de artigo, vídeos e etc.
 - Layout base de site portfolio que fiz para a comunidade: [Clique aqui](https://www.figma.com/file/H1AlXQapovT5SwpLWjM0RL/meuSitePortifolio-UI%2FUX?node-id=0%3A1)
 - Tente ter ao menos 3 CRUDS e/ou 2 aplicação front-end no seu portfólio.
 
@@ -59,15 +59,14 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 
 > Clique [aqui](./assets/docs/84-modelo-curriculo-pronto-word.docx) para baixar o exemplo.
 
-- Adicione elementos que sejam simples e intuitivos, normalmente pessoas não desenvolvedoras leem currículos. Seja o mais conciso possível adicione seus cursos, experiências, projetos OpenSource e afins.
+- Adicione elementos que sejam simples e intuitivos, normalmente pessoas não desenvolvedoras leem currículos. Seja o mais conciso possível: adicione seus cursos, experiências, projetos OpenSource e afins.
 - Não adicione NADA que você não saiba fazer, alguns processos seletivos fazem perguntas sobre o conteúdo que você diz que tem domínio! Se você não sabe utilizar uma tecnologia não adicione ela em suas habilidades.
 - Busque recomendações para seu curriculum, isso agrega bastante ao seu perfil.
 - Coloque as experiências mais recentes antes. Isto é, organize as suas experiências em ordem cronológica inversa.
 
 ## Aplicando para vagas
 
-### Quando Aplicar?
-
+### Quando Aplicar
 Essa é um pergunta que todos nós fazemos e a resposta vai variar de pessoa para pessoa, mas quando devemos aplicar-se para vagas?
 Quando seu conhecimento com determinadas tecnologias te coloque em uma zona de conforto para assumir a vaga que almeja. Por exemplo, se você tem conhecimento básicos de HTML, CSS e JavaScript, consegue fazer páginas simples, criar classes, funções, esse seria um momento interessante para ir a procura de um emprego.
 
