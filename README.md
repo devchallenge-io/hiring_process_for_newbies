@@ -122,7 +122,10 @@ Algumas empresas acabam pedindo para que você cumpra algum desafio indo desde c
 
 ## Dinâmicas
 
--
+- Algumas empresas podem te colocar para codar em algum projeto **teste** da empresa.
+- Perguntas técnicas como "O que é um hook no React ?" ou "Como funciona o useState e o useEffect"
+- Live coding. Dependendo do tipo de vaga que se aplica algumas entrevistas podem pedir está dinâmica de você codar um desafio stremando a tela
+- Um complemento da dimanica acima é o "Live Coding" com explicações, no caso o que você fez para chegar até determinado resultado para o problema.
 
 ## Como contribuir
 
