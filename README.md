@@ -46,6 +46,7 @@ Este repositório tem como objetivo disponibilizar dicas para desenvolvedores e 
 - Crie um site portfolio que possa armazenar seus projetos, layouts, links de artigo, vídeos e etc.
 - Layout base de site portfolio que fiz para a comunidade: [Clique aqui](https://www.figma.com/file/H1AlXQapovT5SwpLWjM0RL/meuSitePortifolio-UI%2FUX?node-id=0%3A1)
 - Tente ter ao menos 3 CRUDS e/ou 2 aplicação front-end no seu portfólio.
+- Seja visto! Sabe aquele projeto bacana que você desenvolveu e documentou? Separe um tempo para fazer um post legal no seu LinkedIn, demonstrando seu aprendizado. Dessa forma, os recrutadores podem conhecer suas habilidades e demonstrar interesse em te contratar.
 
 ## Currículo
 
